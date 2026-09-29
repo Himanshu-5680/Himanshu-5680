@@ -16,7 +16,15 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/himanshupathak568090) 
 
 # Learning Matters :nerd_face:
 
-Use `YYYY/MM/DD` format for the completion date. `0000/00/00` means in progress / incomplete. You can verify my digital badges directly on my [Credly Profile](https://www.credly.com/users/himanshupathak_5680).
+`0000/00/00` means in progress / incomplete.
+You can verify my digital badges directly on my [Credly Profile](https://www.credly.com/users/himanshupathak_5680).
+
+## ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+| **Course** | **Offered By** | **Completion Date** | **Certificate ID** |
+|:-----------|:--------------:|:-------------------:|:------------------:|
+| [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) | IBM | 0000/00/00 | - |
+| [Visual Analytics with Tableau](https://www.coursera.org/learn/dataviz-visual-analytics) | University of California, Davis | 0000/00/00 | - |
+
 
 ## ![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 | **Course** | **Offered By** | **Completion Date** | **Certificate ID** |
@@ -33,12 +41,6 @@ Use `YYYY/MM/DD` format for the completion date. `0000/00/00` means in progress 
 | [Getting Started with Data](https://skillsbuild.org/) | IBM SkillsBuild | 2026/08/24 | PLAN-14F2691E3A32 |
 | [Introduction to Generative AI (Generative AI Essentials: Using LLMs to Work with Data)](https://skillsbuild.org/) | IBM SkillsBuild | 2026/08/24 | ALM-COURSE_4058859 |
 | [Make Agentic AI Work for You](https://skillsbuild.org/) | IBM SkillsBuild | 2026/08/24 | Verified on Credly |
-
-## ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-| **Course** | **Offered By** | **Completion Date** | **Certificate ID** |
-|:-----------|:--------------:|:-------------------:|:------------------:|
-| [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) | IBM | 0000/00/00 | - |
-| [Visual Analytics with Tableau](https://www.coursera.org/learn/dataviz-visual-analytics) | University of California, Davis | 0000/00/00 | - |
 
 # Project Matters
 
