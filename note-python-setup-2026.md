@@ -1,65 +1,115 @@
-- Operating System (OS): Windows
-- Python Version: v3.12+
-- Code Editor: Visual Studio Code (VS Code)
-- Interactive Environment: Jupyter Notebook
+# Python & Jupyter Setup on Windows (2026 Edition) 🚀 ![Python](https://img.shields.io/badge/Python-3.12+-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-# Steps to Install Python on Windows:
-1. Go to [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/).
-2. Download the latest Windows Installer (`.exe` 64-bit).
-3. Run the downloaded `.exe` file.
-4. **Important:** Check the box that says **"Add python.exe to PATH"** at the bottom of the installer window.
-5. Click "Install Now".
-6. Wait for the setup progress bar to finish, then click "Close".
+> Zero to your first data analysis in about 15 minutes. No detours, no mystery errors.
 
-To check if Python and `pip` have successfully been installed, open Command Prompt or PowerShell and type:
+## 🧰 My Setup
+
+| Layer | Choice |
+|:------|:-------|
+| Operating System | Windows |
+| Python | v3.12+ |
+| Code Editor | Visual Studio Code (VS Code) |
+| Interactive Environment | Jupyter Notebook |
+
+## 1️⃣ Install Python
+
+1. Go to [python.org/downloads/windows](https://www.python.org/downloads/windows/).
+2. Download the latest Windows installer (`.exe`, 64-bit).
+3. Run the installer.
+4. **⚠️ Important:** tick **"Add python.exe to PATH"** at the bottom of the window. Skipping this causes about 80% of beginner setup pain.
+5. Click **Install Now**.
+6. Wait for the progress bar, then click **Close**.
+
+**Verify it worked** (Command Prompt or PowerShell):
+
 ```powershell
 python --version
 pip --version
 ```
 
-# Steps to Write and Run a Simple Python Program in a Text Editor / CLI:
-1. Open a text editor (e.g., VS Code or Notepad++).
-2. Copy and paste the following code into the file:
-```python
-# Simple Python program for quick data summary
-data = [120, 250, 310, 180, 400]
-average_sales = sum(data) / len(data)
+Both should print version numbers. If Windows says "not recognized", reinstall and check the PATH box.
 
-print("Hello, Data World!")
-print(f"Average Sales: {average_sales}")
-```
-3. Save it as `sales_summary.py` (using `snake_case.py` naming convention).
-4. Open Command Prompt or PowerShell.
-5. Use the `cd` command to navigate to the folder where `sales_summary.py` is saved.
-6. Type `python sales_summary.py` and press [ENTER] to run the script.
+## 2️⃣ Your First Python Script
 
-# Steps to Run Data Analysis in Jupyter Notebook:
-1. Open Command Prompt or PowerShell.
-2. Install Jupyter Notebook and core analytics libraries by running:
-```powershell
-pip install jupyter pandas numpy matplotlib seaborn
-```
-3. Navigate to your project directory using `cd`.
-4. Launch Jupyter Notebook by typing:
-```powershell
-jupyter notebook
-```
-5. In the browser window that opens, click "New" >> "Python 3 (ipykernel)".
-6. Rename the notebook using `snake_case.ipynb` (e.g., `exploratory_data_analysis.ipynb`).
-7. Enter the following code into the first cell:
-```python
-import pandas as pd
+1. Open VS Code (or Notepad++).
+2. Paste this:
 
-df = pd.DataFrame({
-    "Product": ["Laptop", "Mouse", "Keyboard"],
-    "Sales": [55000, 1200, 2500]
-})
-df.head()
+   ```python
+   # Simple Python program for quick data summary
+   data = [120, 250, 310, 180, 400]
+   average_sales = sum(data) / len(data)
+
+   print("Hello, Data World!")
+   print(f"Average Sales: {average_sales}")
+   ```
+
+3. Save as `sales_summary.py` (`snake_case.py`, see [naming conventions](note-naming-conventions.md)).
+4. Open a terminal, `cd` to the folder containing the file.
+5. Run:
+
+   ```powershell
+   python sales_summary.py
+   ```
+
+**Expected output:**
+
 ```
-8. Press `Shift` + `Enter` to execute the cell and view the DataFrame output.
+Hello, Data World!
+Average Sales: 252.0
+```
+
+## 3️⃣ Data Analysis in Jupyter Notebook
+
+> 💡 **Pro tip:** do this inside a virtual environment. Full guide: [notes-virtual-env.md](notes-virtual-env.md).
+
+1. Install the stack:
+
+   ```powershell
+   pip install jupyter pandas numpy matplotlib seaborn
+   ```
+
+2. `cd` to your project folder.
+3. Launch:
+
+   ```powershell
+   jupyter notebook
+   ```
+
+4. In the browser: **New → Python 3 (ipykernel)**.
+5. Rename it with `snake_case.ipynb`, e.g. `exploratory_data_analysis.ipynb`.
+6. In the first cell:
+
+   ```python
+   import pandas as pd
+
+   df = pd.DataFrame({
+       "Product": ["Laptop", "Mouse", "Keyboard"],
+       "Sales": [55000, 1200, 2500]
+   })
+   df.head()
+   ```
+
+7. Press `Shift` + `Enter` to run it. Your first DataFrame is alive. 🎉
+
+## 🖥️ Bonus: Notebooks Inside VS Code
+
+1. Install the **Python** and **Jupyter** extensions.
+2. Create or open a `.ipynb` file.
+3. Click **Select Kernel** (top right) and choose your project's Python or `venv`.
+
+You get notebooks, terminal, and Git in one window.
+
+## 🧯 Common Snags
+
+| Problem | Fix |
+|:--------|:----|
+| `python` is not recognized | Reinstall Python with the PATH box ticked |
+| `pip` is not recognized | Try `python -m pip --version` |
+| `jupyter` is not recognized | Activate your venv, or run `python -m notebook` |
+| `ModuleNotFoundError` | You're in the wrong environment; activate the right one and `pip install` again |
 
 &nbsp;
 
 *First Published Date: Aug 24, 2026*&emsp;
 <br>
-*Last Updated Date: Sep 29, 2026*&emsp;
+*Last Updated Date: Sep 30, 2026*&emsp;
