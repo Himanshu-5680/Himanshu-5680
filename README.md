@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshupathak568090)
 [![Credly](https://img.shields.io/badge/Credly_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/himanshupathak_5680)
 [![Gists](https://img.shields.io/badge/GitHub_Gists-181717?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/Himanshu-5680)
-
+[![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/himanshu.pathak3605/vizzes)
 </div>
 
 ---
