@@ -123,10 +123,10 @@ All four are **vibe-coding builds**. I act as the architect (business questions,
 
 | Project | Live App | Code |
 |:--------|:--------:|:----:|
-| 🛵 Blinkit Operations Analytics | [**Open dashboard →**](https://blinkitanalysis.streamlit.app/) | [Repo](https://github.com/Himanshu-5680/Data-Analysis_Projects/tree/main/Vibe_coding_Projects/Blinkit-Operations-Analytics-Vibe_coding) |
-| 👥 People Signals: IBM HR Analytics | [**Open dashboard →**](https://ibmhranalytics.streamlit.app/) | [Repo](https://github.com/Himanshu-5680/Data-Analysis_Projects/tree/main/Vibe_coding_Projects/IBM-HR_Analytics) |
-| 🎬 Netflix Content Strategy | [**Open dashboard →**](https://netflixanlaysisproject.streamlit.app) | [Repo](https://github.com/Himanshu-5680/Data-Analysis_Projects/tree/main/Vibe_coding_Projects/Netflix) |
-| 🛒 Supermarket Sales Intelligence | [**Open dashboard →**](https://project-supermarketdashboard.streamlit.app) | [Repo](https://github.com/Himanshu-5680/Data-Analysis_Projects/tree/main/Vibe_coding_Projects/Supermarket-Sales-Dashboard-Vibe-Coding) |
+| 🛵 Blinkit Operations Analytics | [**Open dashboard →**](https://project-blinkit-operations-analytics.streamlit.app/) | [Repo](https://github.com/Himanshu-5680/vibe-coding-projects/tree/main/Blinkit-Operations-Analytics-Vibe_coding) |
+| 👥 People Signals: IBM HR Analytics | [**Open dashboard →**](https://project-ibm-hr-analytics.streamlit.app/) | [Repo](https://github.com/Himanshu-5680/vibe-coding-projects/tree/main/IBM-HR_Analytics) |
+| 🎬 Netflix Content Strategy | [**Open dashboard →**](https://project-netflix-content-strategy-catalog-analytics.streamlit.app) | [Repo](https://github.com/Himanshu-5680/vibe-coding-projects/tree/main/Netflix) |
+| 🛒 Supermarket Sales Intelligence | [**Open dashboard →**](https://project-supermarket-sales-dashboard.streamlit.app) | [Repo](https://github.com/Himanshu-5680/vibe-coding-projects/tree/main/Supermarket-Sales-Dashboard-Vibe-Coding) |
 
 ---
 
@@ -149,7 +149,7 @@ So the first job was detective work. I found the split by studying which columns
 
 **The dashboard:** seven tabs (Overview, Orders & Revenue, Delivery, Feedback, Marketing, Inventory, Customers) with global sidebar filters, all computed live from the data with no hard-coded numbers.
 
-🔗 [**Live app**](https://blinkitanalysis.streamlit.app/) · [Code](https://github.com/Himanshu-5680/Data-Analysis_Projects/tree/main/Vibe_coding_Projects/Blinkit-Operations-Analytics-Vibe_coding)
+🔗 [**Live app**](https://project-blinkit-operations-analytics.streamlit.app/) · [Code](https://github.com/Himanshu-5680/vibe-coding-projects/tree/main/Blinkit-Operations-Analytics-Vibe_coding)
 
 ---
 
@@ -173,7 +173,7 @@ I took IBM's HR dataset (**1,470 employees**) and built a five-level decision su
 
 Every level ends with a Key Insights callout, and there's a one-click PDF export of the live dashboard.
 
-🔗 [**Live app**](https://ibmhranalytics.streamlit.app/) · [Code](https://github.com/Himanshu-5680/Data-Analysis_Projects/tree/main/Vibe_coding_Projects/IBM-HR_Analytics)
+🔗 [**Live app**](https://project-ibm-hr-analytics.streamlit.app/) · [Code](https://github.com/Himanshu-5680/vibe-coding-projects/tree/main/IBM-HR_Analytics)
 
 ---
 
@@ -193,7 +193,7 @@ The app follows the same five-level BI framework (KPIs → Trends → Drivers �
 
 The whole platform is one `app.py`, with data-quality checks built in and a Word report (`.docx`) generated on demand from the current filtered data.
 
-🔗 [**Live app**](https://netflixanlaysisproject.streamlit.app) · [Code](https://github.com/Himanshu-5680/Data-Analysis_Projects/tree/main/Vibe_coding_Projects/Netflix)
+🔗 [**Live app**](https://project-netflix-content-strategy-catalog-analytics.streamlit.app) · [Code](https://github.com/Himanshu-5680/vibe-coding-projects/tree/main/Netflix)
 
 ---
 
@@ -215,7 +215,7 @@ This one is also my purest **Vibe Coding** experiment: I framed the business que
 
 The output isn't just charts: it ends with prioritised business recommendations (High / Medium / Low) and a Product × Branch heatmap for deeper digging.
 
-🔗 [**Live app**](https://project-supermarketdashboard.streamlit.app) · [Code](https://github.com/Himanshu-5680/Data-Analysis_Projects/tree/main/Vibe_coding_Projects/Supermarket-Sales-Dashboard-Vibe-Coding)
+🔗 [**Live app**](https://project-supermarket-sales-dashboard.streamlit.app) · [Code](https://github.com/Himanshu-5680/vibe-coding-projects/tree/main/Supermarket-Sales-Dashboard-Vibe-Coding)
 
 ---
 
