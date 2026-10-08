@@ -43,6 +43,11 @@ Because a healthy brain is a better analytical tool.
 
 Learning in public, with receipts. Dates are in `YYYY/MM/DD`; `0000/00/00` means *in progress*. Everything verifiable lives on my [Credly profile](https://www.credly.com/users/himanshupathak_5680).
 
+<details>
+<summary><b>🎓 Cisco Networking Academy</b></summary>
+
+<br>
+
 ### ![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 | **Course** | **Offered By** | **Completion Date** | **Certificate ID** |
@@ -50,6 +55,13 @@ Learning in public, with receipts. Dates are in `YYYY/MM/DD`; `0000/00/00` means
 | [Data Analytics Essentials](https://www.netacad.com/courses/data-analytics-essentials) | Cisco Networking Academy | 2026/08/23 | 6190976b-4e4a-4ef1-822e-95e634a7c473 |
 | [Python Essentials 1](https://www.netacad.com/courses/python-essentials-1) | Cisco Networking Academy | 0000/00/00 | - |
 | [Python Essentials 2](https://www.netacad.com/courses/python-essentials-2) | Cisco Networking Academy | 0000/00/00 | - |
+
+</details>
+
+<details>
+<summary><b>🎓 IBM SkillsBuild</b></summary>
+
+<br>
 
 ### ![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
@@ -61,12 +73,21 @@ Learning in public, with receipts. Dates are in `YYYY/MM/DD`; `0000/00/00` means
 | [Introduction to Generative AI (Generative AI Essentials: Using LLMs to Work with Data)](https://skillsbuild.org/) | IBM SkillsBuild | 2026/08/24 | ALM-COURSE_4058859 |
 | [Make Agentic AI Work for You](https://skillsbuild.org/) | IBM SkillsBuild | 2026/08/24 | Verified on Credly |
 
+</details>
+
+<details>
+<summary><b>🎓 Coursera</b></summary>
+
+<br>
+
 ### ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 | **Course** | **Offered By** | **Completion Date** | **Certificate ID** |
 |:-----------|:--------------:|:-------------------:|:------------------:|
 | [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) | IBM | 0000/00/00 | - |
 | [Visual Analytics with Tableau](https://www.coursera.org/learn/dataviz-visual-analytics) | University of California, Davis | 0000/00/00 | - |
+
+</details>
 
 ### 💼 Job Simulations on Forage
 
