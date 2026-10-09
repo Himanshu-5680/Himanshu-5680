@@ -16,6 +16,7 @@
 
 ## 🧭 Me Matters <img src="https://user-images.githubusercontent.com/95575665/156106892-1eba2917-c3bc-43d8-99f4-5360d4691a47.png" alt="github-desktop-teal.png" width="26" height="26">
 
+
 I'm the person who opens a messy CSV and gets a little excited. Null values, weird date formats, duplicated rows: that's where the story is hiding, and my job is to dig it out and tell it clearly.
 
 - 🔍 **What I do:** `Data Cleansing` → `Data Wrangling` → `Data Storytelling`. Clean it, shape it, then make people *care* about it.
@@ -24,6 +25,35 @@ I'm the person who opens a messy CSV and gets a little excited. Null values, wei
 - 🎧 **Off-screen:** music, gaming, cinema. Good analysts need good recovery time.
 
 > **My workflow in one line:** ask a sharp question → get the data → clean it without mercy → explore → visualize → explain it so a non-technical person nods.
+
+---
+---
+
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+  <!-- Stats and Top Languages (Perfect Medium Size) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-5680&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-5680&layout=compact&theme=tokyonight&hide_border=true" height="195" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-5680&theme=tokyonight&hide_border=true" height="195" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Interactive Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himanshu-5680/Himanshu-5680/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himanshu-5680/Himanshu-5680/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Himanshu-5680/Himanshu-5680/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
